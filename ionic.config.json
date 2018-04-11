@@ -1,0 +1,8 @@
+{
+  "name": "tutoriaApp",
+  "app_id": "ef2cb6d9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
